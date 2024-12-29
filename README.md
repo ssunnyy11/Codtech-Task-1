@@ -11,9 +11,13 @@ Objective: To make an LED blink at a specific interval using an Arduino board.
 
 Components Needed:
 1.Arduino Board (e.g., Arduino Uno, Nano, etc.)
+
 2.LED (Light Emitting Diode)
+
 3.Resistor (220Ω or 330Ω to limit current to the LED)
+
 4.Breadboard (optional, for easy connections)
+
 5.Jumper Wires (to connect components)
 
 Circuit Diagram:
